@@ -2,6 +2,8 @@
 
 A full-stack web application to manage gym memberships, workouts, diet plans, and payments.
 
+---
+
 ## 🚀 Features
 - User registration & login system
 - Membership package selection
@@ -9,7 +11,9 @@ A full-stack web application to manage gym memberships, workouts, diet plans, an
 - Workout plan based on selected package
 - BMI calculation and diet plan suggestion
 - Feedback system
-- Admin dashboard to manage users, packages, payments
+- Admin dashboard to manage users, packages, and payments
+
+---
 
 ## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JavaScript
@@ -17,17 +21,68 @@ A full-stack web application to manage gym memberships, workouts, diet plans, an
 - Database: MySQL
 - Payment Gateway: Cashfree
 
+---
+
 ## 📂 Project Structure
-- `/cashfree` → Payment integration files
-- `/images` → Website images
-- `.php files` → Core application logic
-- `admin.sql` & `user.sql` → Database structure
+- `/cashfree` → Payment integration files  
+- `/images` → Website images  
+- `/screenshots` → Project screenshots  
+- `.php files` → Core application logic  
+- `admin.sql` & `user.sql` → Database structure  
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](screenshots/index.png)
+
+### 📝 User Registration
+![Register](screenshots/new_register.png)
+
+### 🔐 User Login
+![Login](screenshots/user_login.png)
+
+### 📦 Package Selection
+![Packages](screenshots/select_package.png)
+
+### 💳 Payment Integration
+![Payment](screenshots/payment.png)
+
+### 📊 User Dashboard
+![Dashboard](screenshots/user_dashboard.png)
+
+### 🏋️ Workout Plan
+![Workout](screenshots/workout_plan.png)
+
+### ⚖️ BMI Calculator
+![BMI](screenshots/bmi.png)
+
+### 🥗 Diet Plan
+![Diet](screenshots/diet_plan.png)
+
+### 🔐 Admin Login
+![Admin Login](screenshots/admin_login.png)
+
+### 🛠️ Admin Dashboard
+![Admin Dashboard](screenshots/admin_dashboard.png)
+
+---
 
 ## ⚠️ Note
 Sensitive files like database credentials and API keys are not included.
 
+---
+
 ## 👩‍💻 Author
-Nidisha S
+**Nidisha S**
+
+---
 
 ## 👥 Contributors
-This was a group project. I was primarily responsible for backend development, database design, and payment integration.
+This was a group project. I was primarily responsible for:
+- Backend development  
+- Database design  
+- Payment integration (Cashfree)  
+
+---
