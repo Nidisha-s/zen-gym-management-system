@@ -50,7 +50,7 @@ A full-stack web application to manage gym memberships, workouts, diet plans, an
 ![Payment](images/screenshots/payment.png)
 
 ### 📊 User Dashboard
-![Dashboard](images/screenshots/user.png)
+![Dashboard](images/screenshots/user_dashboard.png)
 
 ### 🏋️ Workout Plan
 ![Workout](images/screenshots/workout_plan.png)
