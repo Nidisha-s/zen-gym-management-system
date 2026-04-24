@@ -35,37 +35,37 @@ A full-stack web application to manage gym memberships, workouts, diet plans, an
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](screenshots/index.png)
+![Home](images/screenshots/index.png)
 
 ### 📝 User Registration
-![Register](screenshots/new_register.png)
+![Register](images/screenshots/new_register.png)
 
 ### 🔐 User Login
-![Login](screenshots/user_login.png)
+![Login](images/screenshots/user_login.png)
 
 ### 📦 Package Selection
-![Packages](screenshots/select_package.png)
+![Packages](images/screenshots/select_package.png)
 
 ### 💳 Payment Integration
-![Payment](screenshots/payment.png)
+![Payment](images/screenshots/payment.png)
 
 ### 📊 User Dashboard
-![Dashboard](screenshots/user_dashboard.png)
+![Dashboard](images/screenshots/user_dashboard.png)
 
 ### 🏋️ Workout Plan
-![Workout](screenshots/workout_plan.png)
+![Workout](images/screenshots/workout_plan.png)
 
 ### ⚖️ BMI Calculator
-![BMI](screenshots/bmi.png)
+![BMI](images/screenshots/bmi.png)
 
 ### 🥗 Diet Plan
-![Diet](screenshots/diet_plan.png)
+![Diet](images/screenshots/diet_plan.png)
 
 ### 🔐 Admin Login
-![Admin Login](screenshots/admin_login.png)
+![Admin Login](images/screenshots/admin_login.png)
 
 ### 🛠️ Admin Dashboard
-![Admin Dashboard](screenshots/admin_dashboard.png)
+![Admin Dashboard](images/screenshots/admin_dashboard.png)
 
 ---
 
